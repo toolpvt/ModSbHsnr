@@ -1,6 +1,6 @@
 {
-  "Version": "8.0",
-  "Notification": "Sửa size Thông báo boss và skill thôi miên hụt khi tàn sát.",
+  "Version": "6.0",
+  "Notification": "Update thêm dò boss vip.",
   "Update": [
     {
       "Name": "Assembly-CSharp.dll",
@@ -16,6 +16,11 @@
       "Name": "AutoLinkMapsWaypoint.txt",
       "Link": "https://raw.githubusercontent.com/toolpvt/UpdateMODSB/main/AutoLinkMapsWaypoint.txt",
       "Path": "ClientPVT_Data\\XmapData\\"
+    },
+    {
+      "Name": "QLTK.exe",
+      "Link": "https://raw.githubusercontent.com/toolpvt/UpdateMODSB/main/QLTK.exe",
+      "Path": "\\"
     }
   ]
 }
