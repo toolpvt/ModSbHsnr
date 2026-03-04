@@ -1,6 +1,6 @@
 {
-  "Version": "2.0",
-  "Notification": "Sửa dò boss lần lượt từ dưới lên trên",
+  "Version": "3.0",
+  "Notification": "Sửa xmap 1 số map",
   "Update": [
     {
       "Name": "Assembly-CSharp.dll",
